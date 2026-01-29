@@ -59,4 +59,3 @@ Using a simulated activity log of **17,950 events** mapped against real-world or
 * `Funnel_Analysis.ipynb`: Python notebook containing the data pipeline and visualizations.
 
 ---
-*Developed as a portfolio piece for Product Management and Data Analytics roles, demonstrating the ability to turn raw data into actionable business growth strategies.*.
